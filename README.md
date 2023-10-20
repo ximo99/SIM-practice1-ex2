@@ -1,5 +1,5 @@
 # SIM Practice 1 (exercise 2: artillery cannon with numerical integration methods in simulation).
-Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. March 2022. Practice 1, exercise 2. Grade 8.5.
+Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. March 2022. Practice 1, exercise 2. Rating 8.5.
 
 An inclined plane had to be simulated with a mass, also inclined, subject to the force of two springs, using numerical integration methods.
 
