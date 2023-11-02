@@ -1,5 +1,5 @@
 # Practice 1, exercice 2: the artillery cannon. Simulation.
-Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. March 2022. Practice 1, exercise 2. Rating 8.5. An inclined plane had to be simulated with a mass, also inclined, subject to the force of two springs, using numerical integration methods.
+Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. March 2022. Practice 1, exercise 2. Rating 8.5. An artillery cannon located in a coastal fort must be simulated.
 
 🎞️ Video with the result: https://www.youtube.com/watch?v=UhIxfp2Bars
 
